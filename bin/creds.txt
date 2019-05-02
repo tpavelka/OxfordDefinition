@@ -1,0 +1,8 @@
+app_id:
+app_key:
+
+you have to make an oxforddictionaries.com account to use
+its free if you choose the prototype mode
+
+app_id and app_key should be at the very top of this file
+in that order
