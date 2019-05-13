@@ -1,8 +1,15 @@
 # OxfordDefinition
 Prints definitions to the console.
 
-You need an app_id and an app_key from https://developer.oxforddictionaries.com/
-to access their database with this software. If you select the Prototype
-license, its completely free, and you can do 1000 searches a month.
+## Usage:
+
+In the run.bat file, the first argument is the word to search. For example, `java OxfordDefinition cooperation` would print oxford's entry for the word cooperation.
+
+You need an app_id and an app_key from https://developer.oxforddictionaries.com/ to access oxford's database with this software. If you select the Prototype license, its free, and you can query 1000 searches per month.
 
 The app_id and app_key goes in the creds.txt file.
+
+## Screenshots:
+
+![](markdown/Cooperation1.png "Define Cooperation Page 1")
+![](markdown/Cooperation2.png "Define Cooperation Page 2")
